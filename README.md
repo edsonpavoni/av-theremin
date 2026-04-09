@@ -108,10 +108,6 @@ const int MIN_MM = 30;                 // Closest detection distance
 const int MAX_MM = 400;                // Farthest detection distance
 ```
 
-## Context
-
-The AV Theremin was first performed at Burning Man 2025 as part of [The Source](https://edsonpavoni.art), an audiovisual performance where hand gestures control both sound synthesis and real-time projected visuals. The instrument connects to TouchDesigner and Ableton Live simultaneously — one hand shapes the sound, the other shapes the image.
-
 ## License
 
 MIT
